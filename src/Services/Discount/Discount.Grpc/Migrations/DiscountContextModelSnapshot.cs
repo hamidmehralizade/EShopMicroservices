@@ -42,8 +42,8 @@ namespace Discount.Grpc.Migrations
                         {
                             Id = 1,
                             Amount = 12,
-                            Description = "Iphone Discount",
-                            ProductName = "Iphone X"
+                            Description = "IPhone Discount",
+                            ProductName = "IPhone X"
                         },
                         new
                         {
